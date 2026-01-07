@@ -15,6 +15,20 @@
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Ramakrishna05&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 </div>
 
+## 💻 Tech Stack
+
+<div align="center">
+
+**🧠 AI/ML**
+
+`PyTorch`
+
+**💬 Languages**
+
+`Python`
+
+</div>
+
 ## 🌐 Socials
 
 <div align="center">
