@@ -12,7 +12,7 @@
 
 <!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Ramakrishna05&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🌐 Socials
