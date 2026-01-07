@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Ramakrishna ✨
+# Ramakrishna Appicharla
 
 <p><em>I am a Machine Translation Researcher</em></p>
 
@@ -13,7 +13,7 @@
 
 <!-- ⚠️ Important: Replace 'Ramakrishna05' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramakrishna05&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Ramakrishna05&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 💻 Tech Stack
