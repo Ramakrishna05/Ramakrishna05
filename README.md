@@ -8,13 +8,6 @@
 
 </div>
 
-## 👀 Visitor Count
-
-<!-- ⚠️ Important: Replace 'Ramakrishna05' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Ramakrishna05/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
 
 ## 📊 GitHub Stats
 
