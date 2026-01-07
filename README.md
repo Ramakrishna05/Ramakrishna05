@@ -1,25 +1,52 @@
-<!--## Hi there 👋 -->
-<h1 align="center">Hi 👋, I'm Ramakrishna</h1>
-<h3 align="center">Machine Translation Researcher</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramakrishna05&label=Profile%20views&color=0e75b6&style=flat" alt="ramakrishna05" /> </p>
+# ✨ Ramakrishna ✨
 
-- 📫 How to reach me **ramakrishnaappicharla@gmail.com**
+<p><em>I am a Machine Translation Researcher</em></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
+<hr>
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramakrishna05&show_icons=true&locale=en" alt="ramakrishna05" /></p> -->
+</div>
 
-<!--
-**Ramakrishna05/Ramakrishna05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👀 Visitor Count
+
+<!-- ⚠️ Important: Replace 'Ramakrishna05' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Ramakrishna05/count.svg" />
+  <br>Thank you for visiting my profile! Come back soon!
+</p>
+
+## 📊 GitHub Stats
+
+<!-- ⚠️ Important: Replace 'Ramakrishna05' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramakrishna05&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+</div>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+**🧠 AI/ML**
+
+`PyTorch`
+
+**💬 Languages**
+
+`Python`
+
+</div>
+
+## 🌐 Socials
+
+<div align="center">
+
+<a href="https://github.com/Ramakrishna05"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://x.com/harry_zero_5"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a> 
+
+</div>
+
+<div align="center">
+
+✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
+
+</div>
